@@ -1,0 +1,5 @@
+import LayoutWithSidebar from '@/app/layout-with-sidebar'
+
+export default function BillingLayout({ children }: { children: React.ReactNode }) {
+  return <LayoutWithSidebar>{children}</LayoutWithSidebar>
+}

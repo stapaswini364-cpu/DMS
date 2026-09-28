@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1783514205584,
+      "tag": "0000_solid_madame_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784189852515,
+      "tag": "0001_magical_wraith",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1785558313237,
+      "tag": "0002_gigantic_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1753920000000,
+      "tag": "0003_booking_paid_status",
+      "breakpoints": true
+    }
+  ]
+}
